@@ -2,7 +2,7 @@
 
 **Open-source benchmark for testing AI governance, safety, and behavioral consistency.**
 
-Released by Mirror Engine | January 2026
+Released by Mirror Engine LLC | January 2026
 
 ---
 
