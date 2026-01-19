@@ -216,5 +216,5 @@ January 2026
 ## Contact
 
 - GitHub Issues: [github.com/mirror-engine/governance-benchmark](https://github.com/mirror-engine/governance-benchmark)
-- Email: [contact info]
-- Substack: [Mirror Engine newsletter]
+- Email: thedj00solo@gmail.com
+- Substack: https://mirrorengineai.substack.com/
